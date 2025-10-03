@@ -1,0 +1,3 @@
+perms:
+check alts: altchecker.alts
+notification: altchecker.notify

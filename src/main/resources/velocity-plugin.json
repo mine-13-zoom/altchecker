@@ -1,0 +1,9 @@
+{
+  "id": "altchecker",
+  "name": "AltChecker",
+  "version": "1.0",
+  "authors": ["Mine13zoom"],
+  "main": "com.creator.altchecker.AltChecker",
+  "dependencies": []
+}
+

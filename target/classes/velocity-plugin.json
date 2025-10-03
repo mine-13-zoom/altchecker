@@ -1,0 +1,1 @@
+{"id":"altchecker","name":"AltChecker","version":"1.0-SNAPSHOT","description":"Checks for alt accounts","url":"https://github.com/YourUsername/AltChecker","authors":["Creator"],"dependencies":[],"main":"com.creator.altchecker.AltChecker"}
