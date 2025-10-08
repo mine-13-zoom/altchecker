@@ -1,5 +1,3 @@
 perms:
 check alts: altchecker.alts
 notification: altchecker.notify
-
-this plugin requires the playtime plugin to be installed also as it uses the same db
